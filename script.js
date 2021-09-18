@@ -27,6 +27,6 @@ function luckChecker(sum,numberInput){
         result.innerText  = "Yay! Your Birthday is Lucky"
     }
     else{
-        result.innerText = "Birthday isnt Lucky"
+        result.innerText = "Your Birthday isn't Lucky"
     }
 }

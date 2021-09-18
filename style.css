@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+h1{
+    padding-top: 0.5rem;
+    text-align: center;
+    font-weight: 100;
+}
+main{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #1B4F72;
+    margin: auto;
+    max-width: 600px;
+    color: #CCD1D1;
+    padding-left: 0.5rem;
+}
+.inputs{
+    padding-left: 10rem;
+    padding-bottom: 1.5rem;
+}
+.submit-button{
+    background-color: transparent;
+    margin-left: 250px;
+    color: #CCD1D1;
+    border-color: F1C40F;
+    font-size: large;
+    padding: 0.5rem;
+}
+p{
+    text-align:center;
+    font-size: x-large;
+    color: yellowgreen;
+    padding-bottom: 3rem;
+}
