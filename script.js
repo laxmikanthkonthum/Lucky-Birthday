@@ -31,6 +31,7 @@ submitBtn.addEventListener('click',function logic(){
   }
 });
 function validation(){
+  var numberInput = Number(luckyNo.value)
   if(luckyNo.value == ''){
     result.innerText = "please enter both the values"
     } 
